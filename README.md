@@ -1,5 +1,6 @@
-<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" width="2000" height="600">
 <h1 align="center">Hi 👋, I'm Belal Alkhatib</h1>
+<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" w>
+
 <h3 align="center">A Passionate Android Developer from Palestine</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

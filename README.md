@@ -3,9 +3,7 @@
 <h3 align="center">I am an enthusiastic Android Developer from Palestine, currently seeking internships and learning opportunities to enhance my skills.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bilal-alkhatib-468690222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-alkhatib-468690222/" height="30" width="40" /></a>
-
-  <a href="mailto:bilaloalkatib.02@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="bilaloalkatib.02@gmail.com" height="30" width="40"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bilal-alkhatib-468690222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-alkhatib-468690222/" height="30" width="40" /></a><a href="mailto:bilaloalkatib.02@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="bilaloalkatib.02@gmail.com" height="30" width="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

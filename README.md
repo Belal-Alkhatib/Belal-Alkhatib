@@ -31,3 +31,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
 </p>
+
+
+<details>
+  <summary>Github Stats</summary>
+  <br>
+<div align="center">
+<img align="center" alt="Belal's GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Belal-Alkhatib&theme=vue"/>
+<br>
+<br>
+<img align="center" alt="Belal's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-Alkhatib" />
+</div>
+</details>

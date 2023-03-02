@@ -5,6 +5,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bilal-alkhatib-468690222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-alkhatib-468690222/" height="30" width="40" /></a><a href="mailto:bilaloalkatib.02@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="bilaloalkatib.02@gmail.com" height="30" width="40"/>
 </p>
+  <br>
+
+![Profile views](https://gpvc.arturio.dev/MahmoudRH)
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

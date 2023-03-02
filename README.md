@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Belal Alkhatib</h1>
+<h1 align="center">Hi 👋, I'm Belal Alkhatib</h1><img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" />
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" w>
 
 <h3 align="center">A Passionate Android Developer from Palestine</h3>

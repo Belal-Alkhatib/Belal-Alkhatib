@@ -32,6 +32,13 @@
   </a> 
 </p>
 
+<h3> ⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+<a href="https://github.com/Belal-Alkhatib">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Belal-Alkhatib&show_icons=true&theme=dark&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belal-Alkhatib&layout=compact&langs_count=10&count_private=true&theme=dark"/>
+</a>
+</p>
 
 <details>
   <summary>Github Stats</summary>

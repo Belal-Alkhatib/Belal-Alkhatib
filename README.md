@@ -8,6 +8,7 @@
   <br>
 
 ![Profile views](https://gpvc.arturio.dev/Belal-Alkhatib)
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>

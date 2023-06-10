@@ -9,7 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Belal-Alkhatib&label=Profile%20views&color=0e75b6&style=flat" alt="Belal-Alkhatib" /> </p>
 
-
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
